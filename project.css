@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(208, 208, 201);
+    
+}
+
+ul {
+    font-size: 20px;
+}
+
+h1 {
+    color: steelblue;
+}
+
+.logger {
+    font-size: 14px;
+    font-family: sans-serif;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.logger th {
+    font-size: 24px;
+    text-align: left;
+    font-weight: normal;
+    color: rgb(84, 95, 106); 
+    background-color: rgb(136, 193, 223);
+    padding: 15px;
+
+}
+
+.logger__row {
+    background: rgb(224, 222, 222);
+}
+
+.logger__button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
